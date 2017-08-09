@@ -15,4 +15,4 @@ public class GildedRoseTest {
     }
 
 }
-/** new comment here */
+/** new comment here asfasfasfasfasfasf*/
